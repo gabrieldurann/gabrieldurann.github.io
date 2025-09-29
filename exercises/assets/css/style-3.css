@@ -337,4 +337,28 @@ p {
 }
 a {color: var(--blue-600);}
 
+.section-1 {
+    background-color: var(--trend-300);
+}
+
+.section-2 {
+    background-color: var(--sky-200);
+}
+
+.section-3 {
+    background-color: var(--lime-100);
+}
+
+.section-4 {
+    background-color: var(--trend-700);
+}
+.section-4 h2,
+.section-4 p{
+    color: #fff;
+}
+
+.section-5 {
+    background-color: var(--purple-200);
+}
+
 
