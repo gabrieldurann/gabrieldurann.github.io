@@ -127,7 +127,7 @@ p {
 }
 a {color: green;}
 
-img{
+.main-image{
     width: 85%;
     height: 75%;
     border-radius: 25px;
