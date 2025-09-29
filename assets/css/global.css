@@ -126,3 +126,12 @@ p {
 	margin-bottom: 12px;
 }
 a {color: green;}
+
+img{
+    width: 85%;
+    height: 75%;
+    border-radius: 25px;
+    box-shadow: 8px 10px 8px #888;
+    margin-bottom: 4px;
+    margin-top: 15px;
+}
