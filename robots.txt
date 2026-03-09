@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://gabrieldurann.github.io/sitemap.xml
+Sitemap: https://gabrielduran.vercel.app/sitemap.xml

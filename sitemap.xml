@@ -4,76 +4,84 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
 
-  <url>
-    <loc>https://gabrieldurann.github.io/</loc>
-    <lastmod>2025-12-08T14:25:17+00:00</lastmod>
-    <priority>1.00</priority>
-  </url>
-  <url>
-    <loc>https://gabrieldurann.github.io/portfolio/index.html</loc>
-    <lastmod>2025-12-08T14:25:17+00:00</lastmod>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://gabrieldurann.github.io/store/index.html</loc>
-    <lastmod>2025-12-08T14:25:17+00:00</lastmod>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://gabrieldurann.github.io/contact/index.html</loc>
-    <lastmod>2025-12-08T14:25:17+00:00</lastmod>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://gabrieldurann.github.io/portfolio/fashion/index.html</loc>
-    <lastmod>2025-12-08T14:25:17+00:00</lastmod>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://gabrieldurann.github.io/portfolio/smoothies/index.html</loc>
-    <lastmod>2025-12-08T14:25:17+00:00</lastmod>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://gabrieldurann.github.io/portfolio/crypto-wallet/index.html</loc>
-    <lastmod>2025-12-08T14:25:17+00:00</lastmod>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://gabrieldurann.github.io/privacy.html</loc>
-    <lastmod>2025-12-08T14:25:17+00:00</lastmod>
-    <priority>0.60</priority>
-  </url>
-  <url>
-    <loc>https://gabrieldurann.github.io/portfolio/project-hero/index-1.html</loc>
-    <lastmod>2025-12-08T14:25:17+00:00</lastmod>
-    <priority>0.64</priority>
-  </url>
-  <url>
-    <loc>https://gabrieldurann.github.io/portfolio/project-multi-column/index.html</loc>
-    <lastmod>2025-12-08T14:25:17+00:00</lastmod>
-    <priority>0.64</priority>
-  </url>
-  <url>
-    <loc>https://gabrieldurann.github.io/portfolio/project-hero/index-2.html</loc>
-    <lastmod>2025-12-08T14:25:17+00:00</lastmod>
-    <priority>0.51</priority>
-  </url>
-  <url>
-    <loc>https://gabrieldurann.github.io/portfolio/project-hero/index-3.html</loc>
-    <lastmod>2025-12-08T14:25:17+00:00</lastmod>
-    <priority>0.51</priority>
-  </url>
-  <url>
-    <loc>https://gabrieldurann.github.io/portfolio/project-hero/index-4.html</loc>
-    <lastmod>2025-12-08T14:25:17+00:00</lastmod>
-    <priority>0.51</priority>
-  </url>
-  <url>
-    <loc>https://gabrieldurann.github.io/portfolio/project-hero/index-5.html</loc>
-    <lastmod>2025-12-08T14:25:17+00:00</lastmod>
-    <priority>0.51</priority>
-  </url>
+<url>
+  <loc>https://gabrielduran.vercel.app/</loc>
+  <lastmod>2026-03-09T13:56:54+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://gabrielduran.vercel.app/portfolio/index.html</loc>
+  <lastmod>2026-03-09T13:56:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://gabrielduran.vercel.app/store/index.html</loc>
+  <lastmod>2026-03-09T13:56:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://gabrielduran.vercel.app/contact/index.html</loc>
+  <lastmod>2026-03-09T13:56:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://gabrielduran.vercel.app/portfolio/fashion/index.html</loc>
+  <lastmod>2026-03-09T13:56:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://gabrielduran.vercel.app/portfolio/smoothies/index.html</loc>
+  <lastmod>2026-03-09T13:56:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://gabrielduran.vercel.app/portfolio/crypto-wallet/index.html</loc>
+  <lastmod>2026-03-09T13:56:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://gabrielduran.vercel.app/privacy.html</loc>
+  <lastmod>2026-03-09T13:56:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://gabrielduran.vercel.app/index.html</loc>
+  <lastmod>2026-03-09T13:56:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://gabrielduran.vercel.app/portfolio/project-hero/index-1.html</loc>
+  <lastmod>2026-03-09T13:56:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://gabrielduran.vercel.app/portfolio/project-multi-column/index.html</loc>
+  <lastmod>2026-03-09T13:56:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://gabrielduran.vercel.app/portfolio/project-hero/index-2.html</loc>
+  <lastmod>2026-03-09T13:56:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://gabrielduran.vercel.app/portfolio/project-hero/index-3.html</loc>
+  <lastmod>2026-03-09T13:56:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://gabrielduran.vercel.app/portfolio/project-hero/index-4.html</loc>
+  <lastmod>2026-03-09T13:56:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://gabrielduran.vercel.app/portfolio/project-hero/index-5.html</loc>
+  <lastmod>2026-03-09T13:56:58+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+
+
 </urlset>
